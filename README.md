@@ -1,4 +1,4 @@
-echo "# awary-backend" >> README.md
+echo "# awary-frontend-mobile" >> README.md
 * git init
 * git add README.md
 * git commit -m "first commit"
